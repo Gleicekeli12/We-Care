@@ -42,9 +42,9 @@ we-care/
 ├── styles.css
 └── README.md
 ```
+<img src="https://github.com/Gleicekeli12/We-Care/blob/main/img/responsividade-css2-weCare.PNG?raw=true" alt="mobile" width="300"/>
 
-<img src="https://github.com/Gleicekeli12/starbucks/blob/master/img/starbucks.PNG?raw=true" alt="site" width="450"/>
-
+<img src="https://github.com/Gleicekeli12/We-Care/blob/main/img/projeto-css-1-we-care.PNG?raw=true" alt="pc" width="450"/>
 
 🙋‍♀️ Desenvolvedora Gleice Keli Feito com 💙
 
